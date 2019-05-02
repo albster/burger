@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "password1234",
-  database: "burger_db"
+  database: "burgers_db"
 });
 }
 

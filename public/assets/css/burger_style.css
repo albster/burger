@@ -14,12 +14,12 @@
   }
   h1{
     text-align: center;
-    background-color: lightpink;
+    background-color: orange;
     margin: auto;
   }
   #menu {
     float: left;
-    background-color: lightpink;
+    background-color: orange;
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
@@ -29,7 +29,7 @@
   }
   #myMenu{
     float: left;
-    background-color: lightpink;
+    background-color: orange;
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
@@ -38,8 +38,8 @@
 
   }
   #add{
-    float: left;
-    background-color: lightpink;
+    float: right;
+    background-color: orange;
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
